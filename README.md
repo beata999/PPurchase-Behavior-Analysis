@@ -8,8 +8,6 @@ This project presents an end-to-end analysis of user purchase behavior, from tim
   Used for creating interactive dashboards and visualizing key business metrics like time to purchase, re-engagement intervals, funnel drop-offs, revenue by region, and more.
 - **BigQuery**  
   Used for scalable and efficient SQL querying of large event datasets. Enabled advanced analysis like session duration, user-level aggregation, and funnel segmentation.
-- **Database**: `raw_events`  
-  Hosted event-level user interaction data including page views, cart actions, and purchase events.
 
 ## 📁 Key Dashboards & Visuals
 
